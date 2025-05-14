@@ -1,3 +1,3 @@
-Portfolio of Amarachi Ugwuchukwu - Data Science Projects
+This project utilises the NHS Challenge C dataset, which has been merged, simplified, and filtered into a clean dataset containing 9,455 entries and 6 columns. The dataset provides valuable insights into antidepressant prescription trends across various regions and months within the NHS.
 
-This repo contains a few of my Data Science projects using Python programming and machine learning models.
+The challenge offered an opportunity to explore healthcare data with the aim of building awareness and supporting informed decision-making for improved patient care. A further step was personally taken out of scope to explore the application of machine learning models to predict the cost of antidepressant prescriptions based on factors such as prescription volume(ITEMS), region(REGION_NAME), calendar month(MONTH), and antidepressant(BNF_CHEMICAL_SUBSTANCE).
